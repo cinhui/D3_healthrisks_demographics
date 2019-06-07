@@ -1,7 +1,5 @@
 # healthrisks_demographics
 
-Using D3 to create an interactive scatter plot.
-
 The data set used is based on 2014 ACS 1-year estimates: 
 <a href="https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml">
 https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml</a>, 
